@@ -3,6 +3,8 @@
 *.pyc
 
 /Data
+/model
+/tree
 
 .DS_Store
 .ipynb_checkpoints/Project-checkpoint.ipynb
